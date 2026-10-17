@@ -10,18 +10,27 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 5.38h | 1 |
+| Week 2 | Tier 1 | 5.55h | 1 |
 
 ## Contents
 
-1. [2026-10-17 – Work session](#2026-10-17-work-session)
+1. [2026-10-17 – So i started the design for the desk lamp....the front of the base is goin to be touch and have the 7 segment display shining through so i made that part really thin (0.4mm)... apart from the incredib](#2026-10-17-so-i-started-the-design-for-the-desk-lampthe-fron)
 
 ## Design
 
-### 2026-10-17 – Work session
+### 2026-10-17 – So i started the design for the desk lamp....the front of the base is goin to be touch and have the 7 segment display shining through so i made that part really thin (0.4mm)... apart from the incredib
 
-**5.38h**
+**5.55h**
 
-Work session
+So i started the design for the desk lamp....the front of the base is goin to be touch and have the 7 segment display shining through so i made that part really thin (0.4mm)... apart from the incredible desgn (holy glaze)
+I made the base then added screw holes for M2 screws and also added those long poles (whatever we want to calll them) to hold both the base and for the screw insert...i made the about 2x thicker that the screw hole (for some reason)...so that made the 4mm thick in diameter....yhhhh...i added a part for acrylic or glass and also added M2 screw holes for it.....I USED 10MINS to look for a design refernce...yes it took that long!!!!
+
+![Screenshot 2026-10-16 204256](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vN9PxyQSUBhHT6mnBWDiwdD632NQBv8i/44d4c5221f61e28f341840df1fc6f029ab7d3a44d1077bb5ece7ee5b496ffa6d.png)
+
+![Screenshot 2026-10-17 154400](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vN9PxyQSUBhHT6mnBWDiwdD632NQBv8i/3cea7d024f54c4dbbc13c1de4b2df4ac2a08fac38c7c9dda97c7e0b2511e96d4.png)
+
+![Screenshot 2026-10-17 164753](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vN9PxyQSUBhHT6mnBWDiwdD632NQBv8i/1efbf12574c0d5f6365a3d855f364567c7d500aa4ed416d9c5c65769c0f42cdf.png)
+
+![Screenshot 2026-10-17 202429](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vN9PxyQSUBhHT6mnBWDiwdD632NQBv8i/cecc312a106a9608e21e6e749d8c33ba7338665092f2d56e33b923e928364e1c.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/697fcbf3-3125-44b6-8318-f85788cdf4dc/video.mp4)
